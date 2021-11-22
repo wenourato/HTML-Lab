@@ -1,0 +1,22 @@
+p {
+    font-size: 30px;
+    color: purple;
+}
+img{
+    width: 25vw;
+ 
+}
+
+body{
+    background-color: salmon;
+    text-align: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
+}
+button {
+    background-color: skyblue;
+}
+button:hover {
+    background-color: slateblue;
+    cursor: pointer;
+}
